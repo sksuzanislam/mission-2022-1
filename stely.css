@@ -1,0 +1,116 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+.line{
+    width: 4px;
+    height: 100px;
+    background-color: orange;
+    margin-top:150px;
+    margin-left: 170px;
+    position: relative;
+    border-radius: 2px;
+
+}
+.date{
+    color: rgb(185, 102, 87);
+    
+}
+.section-1{
+    display: flex;
+   
+}
+.haft-width{
+    width: 50%;
+    padding-top: 120px;
+    padding-left: 5px;
+}
+div img{
+width: 50%;
+padding-left: 30px;
+}
+.button{
+    padding: 8px 20px;
+    background-image: linear-gradient( tomato,orange);
+    border: none;
+    border-radius: 5px;
+
+}
+.my-misson{
+    text-align: center;
+    padding-top: 50px;
+}
+.mission{
+    text-align: left;
+    width: 300px;
+   border: none;
+    background-color: #BFE992;
+    border-radius: 10px;
+}
+.mission-2{
+    border: none;
+    text-align: left;
+    width: 300px;
+    background-color: #eff7aa;
+    border-radius: 10px;
+}
+.mission-3{
+    border: none;
+    text-align: left;
+    width: 300px;
+     background-color: #b8e9e9;
+    border-radius: 10px;
+}
+.section-2{
+  display: flex;
+    justify-content: space-around;
+    padding: 50px;
+
+}
+.pad-i{
+  padding-left: 18px;
+  padding-bottom: 18px;
+}
+.section-3{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 30px;
+  }
+  .haft-width-3{
+    
+  }
+
+
+
+
+  .tutton-2{
+    padding: 8px 20px;
+    background-image: linear-gradient( tomato,orange);
+    border: none;
+    border-radius: 5px;
+
+  }
+  .section-4{
+      display: flex;
+      padding-left: 100px;
+      padding-right: px;
+      padding-top: 60px;
+  }
+  .corona{
+      text-align: center;
+      padding-top: 60px;
+      
+  }
+  .section-5{
+      display: flex;
+      padding-left: 100px;
+      padding-right: 50px;
+      padding-top: 60px;
+  }
+.section-6{
+    color: seashell;
+    background-color: rebeccapurple ;
+    text-align: center;
+}
